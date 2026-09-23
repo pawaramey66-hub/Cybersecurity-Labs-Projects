@@ -242,4 +242,8 @@ The exercise demonstrated how network enumeration can identify exposed services 
 All scanning and security testing described in this project was performed against an intentionally isolated Windows virtual machine within a controlled VMware laboratory environment. No unauthorized external 
 
 
+<img width="1000" height="563" alt="nmap org" src="https://github.com/user-attachments/assets/d0b8d954-ee47-4fce-a32e-90cc4cec6ad4" />
+
+
+
 <img src="./screenshots/nmap.org.jpg" width="700">
