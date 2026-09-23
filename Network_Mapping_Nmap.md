@@ -39,3 +39,13 @@ Executed an aggressive scan to fingerprint the OS and evaluate SMB configuration
 Bash
 nmap -A -T4 192.168.143.129
 nmap -sn 192.168.143.129 <img width="988" height="471" alt="image" src="https://github.com/user-attachments/assets/99ccb397-e390-4da8-a3f8-8f6b4e012563" />
+
+
+
+---
+
+## 4. Live Lab Execution Proof
+---
+
+## 4. Live Lab Execution Proof
+<img width="988" height="471" alt="nmap.org" src="https://github.com/user-attachments/assets/99ccb397-e390-4da8-a3f8-8f6b4e012563" />
