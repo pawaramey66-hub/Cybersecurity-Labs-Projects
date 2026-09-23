@@ -239,8 +239,7 @@ This lab demonstrated a structured Nmap-based network reconnaissance workflow ag
 
 The exercise demonstrated how network enumeration can identify exposed services and security configuration issues in a controlled environment. The results can be used to apply appropriate hardening measures and improve the security posture of the Windows host.
 
----
+All scanning and security testing described in this project was performed against an intentionally isolated Windows virtual machine within a controlled VMware laboratory environment. No unauthorized external 
 
-## Disclaimer
 
-All scanning and security testing described in this project was performed against an intentionally isolated Windows virtual machine within a controlled VMware laboratory environment. No unauthorized external systems were targeted.
+<img src="./screenshots/nmap.org.jpg" width="700">
